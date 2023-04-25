@@ -17,7 +17,7 @@ This is a command-line application that takes in user input to generate a logo a
 
 ## Walkthrough-Video
 
-Watch this [video](https://drive.google.com/file/d/1SE0zKLLPXqz_-dFQgsaYz3Vg3cFdU6cR/view?usp=sharing) demonstration to learn the functionality and how to use the application.
+Watch this [video](https://drive.google.com/file/d/1iftsIs7pOBWyAPqCeq9bq_Uabtu3Lfge/view?usp=share_link) demonstration to learn the functionality and how to use the application.
 
 ## Installation 
 
