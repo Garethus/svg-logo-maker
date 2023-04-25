@@ -22,14 +22,14 @@ Watch this [video](https://drive.google.com/file/d/1SE0zKLLPXqz_-dFQgsaYz3Vg3cFd
 ## Installation 
 
 1. Clone the [repository](https://github.com/Garethus/readme-generator) of this project from Github into your local machine. 
-2. Navigate inside the project's directory. 
+2. Navigate to the project's directory. 
 3. Then, run `npm install` to install the npm package dependencies. 
 
 ![Installation screenshot](./images/installation.JPG)
 
 ## Usage
 
-The application will be invoked via GitBash. Make sure the directory points to where the package.json file of the application is. Then, run `node index.js`. You will be prompted in the command line with a series of questions about how you want your logo. The application will take your responses and generate your logo's SVG file.
+The application will be invoked via GitBash. Make sure the directory points to where the package.json file of the application is. Then, run `node index.js`. You will be prompted in the command line with a series of questions about how you want your logo. The application will take your responses and generate your logo's SVG file. Genarated logo will be saved in the [images](./images/) folder.
 
 ![Usage screenshot](./images/usage.JPG)
 
